@@ -1,0 +1,12 @@
+package com.SpringJDBC.dao;
+
+
+
+
+public interface ITeacherDao {
+	
+    void addTeacher(Teacher teacher);
+    Teacher getTeacherById(int id);
+    void saveTacher(Teacher teacher);
+
+}
