@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.home3.service.IStudentService"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="com.SpringJDBC.dao.IStudentDao"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.simple.SimpleJdbcTemplate"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.simple.ParameterizedRowMapper"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.SpringJDBC.dao.ITeacherDao"/>
+<fullyQualifiedTypeName name="com.SpringJDBC.service.IStudentService"/>
+<fullyQualifiedTypeName name="com.SpringJDBC.entities.Student"/>
+<fullyQualifiedTypeName name="com.SpringJDBC.service.ITeacherService"/>
+<fullyQualifiedTypeName name="com.SpringJDBC.entities.Teacher"/>
+</qualifiedTypeNameHistroy>
